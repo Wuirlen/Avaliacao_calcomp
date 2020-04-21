@@ -1,0 +1,19 @@
+
+
+{
+	"sProcessing":   "Processando...",
+	"sLengthMenu":   "Mostrar _MENU_ itens",
+	"sZeroRecords":  "Desculpe não possível encontrar itens",
+	"sInfo":         "Mostrando de _START_ até _END_ de _TOTAL_ itens",
+	"sInfoEmpty":    "Mostrando de 0 até 0 de 0 itens",
+	"sInfoFiltered": "(filtrado de _MAX_ itens no total)",
+	"sInfoPostFix":  "",
+	"sSearch":       "Pesquisar:",
+	"sUrl":          "",
+	"oPaginate": {
+	    "sFirst":    "Primeiro",
+	    "sPrevious": "Anterior",
+	    "sNext":     "Seguinte",
+	    "sLast":     "Último"
+	}
+}
